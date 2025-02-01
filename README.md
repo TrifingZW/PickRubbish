@@ -5,7 +5,7 @@
 	<img src="https://img.shields.io/github/languages/top/TrifingZW/PickRubbish?color=green" alt="languages-top" />
 </div>
 
-一个基于 Unreal Engine 5 开发的摸金主题游戏 Demo，由两人独立团队开发。
+一个基于 Unreal Engine 5 开发的摸金主题游戏 Demo，由三个人独立团队开发。
 
 ## 游戏简介
 
@@ -28,3 +28,4 @@
 ## 联系
 - **TrifingZW**：TrifingZW@gmail.com
 - **默茗**：630602996@qq.com
+- **Sister Liya** ：jingouwe53437169@126.com
