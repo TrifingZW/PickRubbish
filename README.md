@@ -17,7 +17,13 @@
 - **工具**：GitHub 、Blender
 
 ## 项目状态
-目前为 **没有任何游戏内容**
+目前 **没有任何游戏内容**
+
+## 相关链接
+- [Wiki](https://github.com/TrifingZW/PickRubbish/wiki)
+- [游戏规划](https://github.com/TrifingZW/PickRubbish/wiki/游戏规划)
+- [阶段任务](https://github.com/TrifingZW/PickRubbish/wiki/阶段任务)
+- [游戏系统](https://github.com/your-username/your-repo/wiki/系统概述)
 
 ## 联系
 - **TrifingZW**：TrifingZW@gmail.com
