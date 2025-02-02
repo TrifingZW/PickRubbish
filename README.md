@@ -31,7 +31,7 @@
 ## 技术栈
 
 - **引擎**：Unreal Engine 5
-- **编程语言**：C++ & Blueprint
+- **编程语言**：C++ & C# & Blueprint
 - **工具**：GitHub 、Blender
 
 ## 项目状态
