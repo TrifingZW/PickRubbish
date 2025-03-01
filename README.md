@@ -22,7 +22,7 @@
 <a href="https://www.facebook.com/pickrubbish/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
-一个基于 Unreal Engine 5 开发的摸金主题游戏 Demo，由三个人独立团队开发。
+一个基于 Unreal Engine 5 开发的摸金主题游戏 Demo，由四个人独立团队开发。
 
 ## 游戏简介
 
@@ -50,3 +50,4 @@
 - **TrifingZW**：TrifingZW@gmail.com
 - **默茗**：630602996@qq.com
 - **Sister Liya** ：jingouwe53437169@126.com
+- **Elysia_Gwen** ：1678310645@qq.com
